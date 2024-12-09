@@ -1,3 +1,3 @@
 ## Built using
 
-`Svelte` + `Tauri`
+`Svelte` + `Tauri` + `Vanilla CSS`
